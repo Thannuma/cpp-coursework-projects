@@ -1,6 +1,7 @@
 /*
 Name: Thanik Bharani
-Lab #: 7
+Child Height Analysis
+Analyzes parent and child height data using arrays and file input/output to compare predicted and actual heights.
 */
 
 #include <iostream>
